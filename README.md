@@ -2,7 +2,6 @@
 
 A React Native mobile application that allows users to explore Disney characters using the [Disney API](https://disneyapi.dev), with search functionality and analytics reporting.
 
-![App Screenshot](/assets/screenshot.png) <!-- Add your screenshot path -->
 
 ## Features
 
@@ -71,6 +70,7 @@ npx react-native run-ios
 
 ## 🏗️ Project Structure
 
+```
 /src
 ├── /assets            # Images, fonts, etc.
 ├── /components        # Reusable components
@@ -87,7 +87,7 @@ npx react-native run-ios
 │   ├── api.js
 │   └── database.js
 └── App.js             # Main application entry
-
+```
 
 
 
