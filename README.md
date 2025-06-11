@@ -85,7 +85,6 @@ npx react-native run-ios
 │   └── ...
 ├── /services          # API and database services
 │   ├── api.js
-│   └── database.js
 └── App.js             # Main application entry
 ```
 
